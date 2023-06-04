@@ -1,6 +1,6 @@
-# Patient Portal API
+# Patient Portal API RAML
 
-This is an example of a RAML file that describes a patient portal API with patients, doctors, medications, appointments etc.
+This RAML defines the API for a patient portal. The API allows patients to view their medical records, schedule appointments, and manage their medications.
 
 ## Getting Started
 
