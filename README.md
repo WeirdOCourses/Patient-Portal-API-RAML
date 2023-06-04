@@ -4,11 +4,11 @@ This RAML defines the API for a patient portal. The API allows patients to view 
 
 ## Getting Started
 
-To get started with this API, you will need to do the following:
+To get started with this API on Anypoint Platform, you will need to do the following:
 
-1. Clone this repository.
-2. Install the dependencies by running `npm install`.
-3. Start the server by running `npm start`.
+1. Import the RAML file into Anypoint Platform.
+2. Create a new API in Anypoint Platform using the imported RAML file.
+3. Deploy the API to a runtime environment.
 
 ## Endpoints
 
@@ -54,4 +54,4 @@ If you would like to contribute to this project, please follow these steps:
 
 ## License
 
-This project have no license. It is made for education - see the [LICENSE.md](LICENSE.md) file for details.
+This project have no license. It is made for educational purpose by WeirdOCourses - see the [LICENSE.md](LICENSE.md) file for details.
