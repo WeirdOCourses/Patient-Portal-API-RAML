@@ -54,4 +54,4 @@ If you would like to contribute to this project, please follow these steps:
 
 ## License
 
-This project have no license. It is made for educational purpose by WeirdOCourses - see the [LICENSE.md](LICENSE.md) file for details.
+This project have no license. It is made for educational purpose by [WeirdOCourses](https://weirdocourses.com/)- see the [LICENSE.md](LICENSE.md) file for details.
