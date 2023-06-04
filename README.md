@@ -52,6 +52,15 @@ If you would like to contribute to this project, please follow these steps:
 4. Push your changes to your fork.
 5. Submit a pull request.
 
+## Contact
+
+If you have any questions or feedback, please contact the following:
+
+* Email: weirdo.courses@gmail.com
+* Twitter: @weirdocourses
+* Youtube: @weirdocourses
+* Telegram: @weirdocourses
+
 ## License
 
 This project have no license. It is made for educational purpose by [WeirdOCourses](https://weirdocourses.com/)- see the [LICENSE.md](LICENSE.md) file for details.
