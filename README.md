@@ -14,16 +14,29 @@ To get started with this API, you will need to do the following:
 
 The following endpoints are available:
 
-- `/patients`: Get all patients or create a new patient.
-- `/patients/{patientId}`: Get a patient by ID.
-- `/doctors`: Get all doctors.
-- `/medications`: Get all medications.
-- `/appointments`: Get all appointments.
+- /patients: Get all patients.
+- /patients/:id: Get a patient by ID.
+- /doctors: Get all doctors.
+- /doctors/:id: Get a doctor by ID.
+- /medications: Get all medications.
+- /medications/:id: Get a medication by ID.
+- /appointments: Get all appointments.
+- /appointments/:id: Get an appointment by ID.
 
 ## Data Models
 
 The following data models are used:
+- Patients
+A patient is a person who is registered with the patient portal. A patient has a name, date of birth, and medical record number.
 
+- Doctors
+A doctor is a healthcare professional who is authorized to treat patients. A doctor has a name, specialty, and license number.
+
+- Medications
+A medication is a drug or other substance that is used to treat a medical condition. A medication has a name, dosage, and frequency of administration.
+
+- Appointments
+An appointment is a scheduled meeting between a patient and a doctor. An appointment has a date, time, and location.
 - `Patient`: Represents a patient.
 - `Doctor`: Represents a doctor.
 - `Medication`: Represents a medication.
